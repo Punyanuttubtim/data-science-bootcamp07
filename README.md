@@ -1,5 +1,5 @@
 # data-science-bootcamp07
-All my data projects in the bootcamp
+Hello! This is all my data projects in the bootcamp :-)
 
 - Google sheets
 - SQL
